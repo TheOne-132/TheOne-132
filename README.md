@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Victor Adewale, a Computer Engineering student at Obafemi Awolowo University.
-- 👀 I’m interested in Back-end development, and, I have a growing interest in data analytics...
+- 👀 I’m interested in Back-end development, cloud computing, software engineering and, I have a growing interest in data analytics...
 - 🌱 I’m currently sharpening my skills in Python and Data Science through Datacamp.
 - 💞️ I’m open to collaborating on insightful projects on the above that could make me gain more knowledge in my chosen fields.
 - 📫 You can reach me on WhatsApp at +2348050719252 or via email at adewalevictor132@gmail.com.
