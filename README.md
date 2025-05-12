@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-end development, cloud computing, software engineering and, I have a growing interest in data analytics...
 - 🌱 I’m currently sharpening my skills in Python and Data Science through Datacamp.
 - 💞️ I’m open to collaborating on insightful projects on the above that could make me gain more knowledge in my chosen fields.
-- 📫 You can reach me on WhatsApp at +2348050719252 or via email at adewalevictor132@gmail.com.
+- 📫 You can reach me on WhatsApp at +2348050719252, LinkedIn at www.linkedin.com/in/theone132 or via Email at adewalevictor132@gmail.com.
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love learning only when it is fun, competitive and engaging.
 
